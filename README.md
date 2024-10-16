@@ -10,4 +10,4 @@ API do Pokémon: Utilizado
 Exposição
 Detalhes de cada Pokémon, incluindo habilidades, tipos e estatísticas
 Busca por Pokémon específico
-Link vercel: (pokedex-steel-kappa.vercel.app)
+Link vercel: (https://vercel.live/link/pokedex-steel-kappa.vercel.app?via=project-dashboard-alias-list&p=1)
